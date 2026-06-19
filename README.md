@@ -103,3 +103,5 @@ I am building a practical cybersecurity portfolio focused on real-world security
 ## Disclaimer
 
 All repositories use lab-created, sanitized, or personally developed examples only. No employer, government, client, church, facility, network, IP address, vulnerability, or sensitive operational data is included.
+
+Add professional GitHub profile summary
